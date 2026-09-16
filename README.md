@@ -1,4 +1,4 @@
-# Aditya Blog Platform
+# Ajay E Blog Platform
 
 A complete full-stack blogging website created for **B. Aditya**.
 
